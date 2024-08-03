@@ -1,5 +1,3 @@
-¡Por supuesto! Aquí tienes una explicación detallada de los conceptos clave en Desarrollo Orientado a Objetos (OO): encapsulación, herencia, polimorfismo y abstracción.
-
 ### **1. Encapsulación**
 
 **Definición:**
