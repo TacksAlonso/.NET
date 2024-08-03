@@ -1,0 +1,7 @@
+   - **Fundamentos:**
+     - [Interfaz basada en HTTP y REST.](/REST%20API/Fundamentos.md)
+     - [Operaciones CRUD (Crear, Leer, Actualizar, Eliminar).](/REST%20API/CRUD.md)
+   - **Gestión de API:**
+     - [Plataformas como Apigee, Azure API Management, AWS API Gateway.](/REST%20API/GestionAPI.md)
+   - **Estado HTTP:**
+     - [Códigos de estado como 200 OK, 404 No encontrado, 500 Error interno del servidor.](/REST%20API/Code%20http.md)
