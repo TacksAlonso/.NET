@@ -71,8 +71,6 @@
    - Interface Segregation: [**ISP**](/SOLID/Interface%20Segregation.md) - Las interfaces deben ser específicas para el cliente; una clase no debe estar obligada a implementar métodos que no necesita.
    - Dependency Inversion: [**DIP**](/SOLID/Dependency%20Inversion.md) - Las dependencias deben estar en abstracciones, no en clases concretas.
 
-### **15. Integración de Componentes Azure**
-   - [**Componentes**](/Componentes%20Azure/componentes.md)
-
-### **16. Azure DevOps**
-   - [**Fundamentos**](/Azure%20DevOps/Fundamentos.md)
+### **15. Azure**
+   - [Azure](/Azure/Azure.md)
+   - [Componentes](/Azure/Componentes%20Azure/componentes.md)
